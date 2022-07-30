@@ -8,8 +8,8 @@ Profissional e entusiasta de redes, infraestrutura, automação, cloud, Linux e 
 ### GitHub Stats:
 <div align="left">
   <a href="https://github.com/gmborges">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmborges&layout=compact&langs_count=5&theme=github_dark"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=gmborges&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmborges&layout=compact&langs_count=5&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gmborges&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Contatos:
